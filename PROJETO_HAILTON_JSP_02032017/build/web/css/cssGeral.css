@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26/02/2017, 12:03:06
+    Author     : miromar
+*/
+
+#fieldsetCad{
+  float: left; 
+  margin: auto;
+  width: 280px;
+  padding: 50px;
+
+       
+}
+
+select{
+   
+   width: 193px;
+   height: 26px;
+}
+table{
+   
+}
+td{
+    
+}
